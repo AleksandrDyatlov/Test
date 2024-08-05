@@ -11343,6 +11343,15 @@ input[type=submit] {
   max-width: 100%;
 }
 
-
+.hidden {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: -1px;
+}
 
 /*# sourceMappingURL=style.css.map*/
