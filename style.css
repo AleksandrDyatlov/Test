@@ -11337,6 +11337,12 @@ input[type=submit] {
   line-height: 1.4;
 }
 
+.section img {
+  width: 300px;
+  height: auto;
+  max-width: 100%;
+}
+
 
 
 /*# sourceMappingURL=style.css.map*/
