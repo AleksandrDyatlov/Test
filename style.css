@@ -1910,7 +1910,7 @@ h6, .h6,
 
 h1, .h1 {
   line-height: 1.1;
-  letter-spacing: -1.5px;
+  letter-spacing: -1px;
 }
 
 strong, b {
@@ -8091,7 +8091,6 @@ input[type=submit] {
 @media (min-width: 1024px) {
   h1, .h1 {
     font-size: 60px;
-    letter-spacing: -2px;
   }
 
   h2, .h2 {
@@ -9663,7 +9662,6 @@ input[type=submit] {
   h1, .h1 {
     font-size: 80px;
     line-height: 1.0375;
-    letter-spacing: -3.3px;
   }
 
   h2, .h2 {
@@ -9802,7 +9800,7 @@ input[type=submit] {
 
   .hero-title .container h1 {
     font-size: 72px;
-    letter-spacing: -1.8px;
+    letter-spacing: -1px;
     margin: 0 0 5px;
   }
 
@@ -9825,7 +9823,7 @@ input[type=submit] {
   .hero-two-columns__content h1 {
     margin-bottom: 41px;
     font-size: 70px;
-    letter-spacing: -1.4px;
+    letter-spacing: -1px;
   }
 
   .hero-two-columns__content p {
@@ -10315,7 +10313,7 @@ input[type=submit] {
 
   .faq h1 {
     font-size: 72px;
-    letter-spacing: -3px;
+    letter-spacing: -1px;
     margin-bottom: 67px;
     margin: 0 -120px 67px;
   }
