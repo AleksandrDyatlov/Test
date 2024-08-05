@@ -4654,7 +4654,7 @@ input[type=submit] {
   font-size: 40px;
   line-height: 1.1;
   margin-bottom: 9px;
-  letter-spacing: -1.5px;
+  letter-spacing: -1px;
 }
 
 .hero-blog .btn {
@@ -8960,7 +8960,6 @@ input[type=submit] {
 
   .hero-blog__title {
     font-size: 60px;
-    letter-spacing: -2px;
   }
 
   .filter-section .sort-row {
@@ -10203,7 +10202,6 @@ input[type=submit] {
   .hero-blog__title {
     font-size: 80px;
     line-height: 1.0375;
-    letter-spacing: -3px;
     margin-bottom: 19px;
   }
 
