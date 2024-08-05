@@ -1848,13 +1848,13 @@ body {
 
 a {
   transition: color .15s linear;
-  color: #f06661;
+  color: #004b91;
   -webkit-text-decoration: none;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f06661;
+  color: #004b91;
   -webkit-text-decoration: underline;
   text-decoration: underline;
 }
